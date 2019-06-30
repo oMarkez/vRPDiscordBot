@@ -11,5 +11,4 @@
   8. Done, åben en cmd, cd der hvor i har mappen og "node main.js"
 
 # Credits:
-  Author: oMarkez
-  Hjælp: Naelith#2639
+  oMarkez#6666 & Naelith#2639
