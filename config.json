@@ -1,0 +1,73 @@
+{
+    "info": {
+        "database": {
+            "host": "127.0.0.1",
+            "user": "user",
+            "password": "password",
+            "database": "db"
+        },
+        "prefix": "o",
+        "token": "discordtokenhere",
+        "lang": "dan"
+    },
+    "dan": {
+        "title": "Server Statstisk",
+        "commands": {
+            "stats": "Stats",
+            "cars": "Biler",
+            "inventory": "Inventar"
+        },
+        "result": {
+            "stats": {
+                "name": "Navn: ",
+                "age": "Alder: ",
+                "registration": "CPR: ",
+                "moneywallet": "Pung: ",
+                "moneybank": "Bank: ",
+                "health": "Liv: ",
+                "drinkandfood": "Tørst og mad: ",
+                "and": "og"
+            },
+            "cars": {
+                "type": "Type: ",
+                "plate": "Nummerplade: "
+            },
+            "inventory": {
+                "weapons": "Våben: ",
+                "items": "Genstande: "
+            }
+        },
+        "tag": "Bot kodet af oMarkez",
+        "error": "Kunne ikke finde dig i databasen.."
+    },
+    "eng": {
+        "title": "Server Statistics",
+        "commands": {
+            "stats": "Stats",
+            "cars": "Cars",
+            "inventory": "Inventory"
+        },
+        "result": {
+            "stats": {
+                "name": "Name: ",
+                "age": "Age: ",
+                "registration": "Registration: ",
+                "moneywallet": "Wallet: ",
+                "moneybank": "Bank: ",
+                "health": "Health: ",
+                "drinkandfood": "Thirst and hunger: ",
+                "and": "and"
+            },
+            "cars": {
+                "type": "Type: ",
+                "plate": "Numberplate: "
+            },
+            "inventory": {
+                "weapons": "Weapons: ",
+                "items": "Items: "
+            }
+        },
+        "tag": "Bot coded by oMarkez",
+        "error": "Could not find you in the database."
+    }
+}
